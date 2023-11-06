@@ -21,12 +21,12 @@ body{
     font-family: 'Manrope', sans-serif;
 }
 .card{
-    max-width: 32rem;
-    height: 24rem;
+    max-width: 33rem;
+    height: 25rem;
     display: flex;
     flex-direction: column;
     gap: 2rem;
-    padding: 1.5rem;
+    padding: 1.6rem;
     background-color: var(--Dark-Grayish-Blue);
      text-align: center;
      position: relative;
